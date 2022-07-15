@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28/03/2022, 11:15:20
+    Author     : PC
+*/
+
+#nav{
+    
+    border-color: whitesmoke ;
+}
+
+input[type="file"]#archivo_csv{
+    
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    border-radius: 3px;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+     
+}
+
+
+.gestiones{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
